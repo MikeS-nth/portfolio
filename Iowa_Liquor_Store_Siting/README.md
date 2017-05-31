@@ -1,4 +1,5 @@
 # Identifying Target Counties for a New Liquor Store in Iowa
+
 This project was from an assignment for the General Assembly Data Science Immersive course that I completed.  We were given a dataset from the Iowa Alcoholic Beverages Division containing detailed information on wholesale transactions and Iowa liquor stores covering about 5 quarters.  
 
 In the scenario, there were investors interested in opening a new liquor store in Iowa and wanted to know what locations they should target for in-depth market research.  The task was to use the dataset to develop recommendations for the investors on which specific geographic areas made sense for spending limited research resources.
