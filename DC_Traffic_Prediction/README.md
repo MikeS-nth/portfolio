@@ -23,7 +23,7 @@ In the years I've lived here, I've often wondered if there was any link between 
 1. The severity of traffic is related to the total number of drivers coming into the city at roughly the same time
 2. When there is an uptick in political/governmental activity, there is an increase in the aggregate number of people who come into the city.  Not just legislators, staffers, and high-level officials--there's a very large ecosystem of adjacent roles and industries--such as lobbying, catering, security, event planning, etc.--that have a role in these events and activities.
 
-In this project, I set out create a proof of concept of the idea that, by monitoring upcoming political/government events (and any other very large events), we can adjust the probability of how bad *tomorrow's* traffic will be.
+In this project, I set out to create a proof of concept of the idea that, by monitoring upcoming political/government events (and any other very large events), we can adjust the probability of how bad *tomorrow's* traffic will be.
 
 ## Approach
 
